@@ -1,5 +1,5 @@
 # Chocolate Soup
-
+"Albert Amend the Ingredients to include WATER
 This is perhaps one of the richest, yet most beautiful desserts... it's simple and simply elegant at the same time. The sweet crunch of cinnamon toasted brioche croutons with rich, smooth, deep chocolate flavours!
 
 Source: https://sortedfood.com/recipe/10702
@@ -20,6 +20,7 @@ Source: https://sortedfood.com/recipe/10702
 - 1 tbsp cocoa nibs (optional)
 - 50 ml double cream (to drizzle)
 - 12 mint leaves (garnish)
+- 100 ml water
 
 # Instructions
 
