@@ -5,6 +5,3 @@
 Recipe Picks:
 
 - January: [Homemade Sausages](../recipe/jan/homemade-sausages.md)
-Testing 1 2 3 Testing 1 2 3
-
-Testing For Merging 1
